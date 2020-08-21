@@ -1,7 +1,7 @@
 # Don't need brackets like JS for funcs!
 
 def main():
-    print("hello world")s
+    print("hello world")
 
 
 if __name__ == "__main__":
